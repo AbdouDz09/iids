@@ -1,7 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-Malicioustm copyright arrow_down            
 const devs = ['446999223183998987' , '446999223183998987' , '446999223183998987' , '446999223183998987'];
           const adminprefix = ".";
           client.on('message', message => {
