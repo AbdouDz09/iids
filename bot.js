@@ -349,7 +349,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : CF Na World Clan ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`1 help | OG `,"http://twitch.tv/abdoufersaoui_dz")
+client.user.setGame(`1 help | OG Music`,"http://twitch.tv/abdoufersaoui_dz")
 client.user.setStatus("dnd")
 });
 
