@@ -344,12 +344,12 @@ client.on('message', message => {
 
 client.on('ready', () => {
    console.log(`----------------`);
-      console.log(`Music Bot- Script By : CF Na World Clan`);
+      console.log(`Music Bot- Script By : Dz`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : CF Na World Clan ' `);
+      console.log(`ON ${client.guilds.size} Servers '     Script By : Abdou_Dz ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`1 help | OG Music`,"http://twitch.tv/abdoufersaoui_dz")
+client.user.setGame(`1help | OG Music`,"http://twitch.tv/abdoufersaoui_dz")
 client.user.setStatus("dnd")
 });
 
