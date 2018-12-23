@@ -22,7 +22,7 @@ client.on('message', message => {
 
 if (message.content.startsWith(prefix + 'g')) {
   client.user.setGame(argresult);
-    message.channel.sendMessage(**✅   ${argresult}*
+    message.channel.sendMessage(**✅   ${argresult}**)
 } else 
 
 if (message.content.startsWith(prefix + 'w')) {
